@@ -4,8 +4,7 @@
 ![示范](https://github.com/OUYANGV5/SlideBackHelper/blob/master/GIF.gif)
 
 ## 使用
- * 依赖
-    [![链接](https://www.jitpack.io/v/OUYANGV5/SlideBackHelper.svg)] (https://www.jitpack.io/#OUYANGV5/SlideBackHelper)
+ * 依赖      ![链接](https://www.jitpack.io/v/OUYANGV5/SlideBackHelper.svg)
     ```
       dependencies {
 	        implementation 'com.github.OUYANGV5:SlideBackHelper:0.1'
