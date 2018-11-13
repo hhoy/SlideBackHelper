@@ -1,2 +1,3 @@
 # SlideBackHelper
-This is a great help library that supports the left swipe back of an activity, which makes it easy to turn your activity into a sliding line of code and supports activity linkage by registering and listening in the application. It requires very little code and is very simple to use
+这是一个android的开源库，它可以帮助您实现类似微信左滑返回上一个activity的效果，您仅仅只需短短一行代码，不需改动其他代码，非常方便
+![示范](https://github.com/OUYANGV5/SlideBackHelper/blob/master/GIF.gif)
